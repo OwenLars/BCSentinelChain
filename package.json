@@ -1,0 +1,30 @@
+{
+  "name": "sentinelchain",
+  "version": "1.0.0",
+  "description": "Prototype SentinelChain",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwenLars/BCSentinelChain.git"
+  },
+  "keywords": [
+    "Smart",
+    "Contracts",
+    "Corruption",
+    "Anti-Corruption",
+    "Ethereum"
+  ],
+  "author": "OwenLars (@SentinelChain)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OwenLars/BCSentinelChain/issues"
+  },
+  "homepage": "https://github.com/OwenLars/BCSentinelChain#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1"
+  }
+}
